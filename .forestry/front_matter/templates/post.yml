@@ -40,6 +40,5 @@ fields:
     config:
       required: true
 pages:
-  - src/pages/blog/conf.md
   - src/pages/blog/function-of-design.md
   - src/pages/blog/libris-theme.md
