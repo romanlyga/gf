@@ -14,7 +14,7 @@ sections:
         style: link
         icon_class: dev
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
     image: /images/12.jpg
   - type: section_grid
