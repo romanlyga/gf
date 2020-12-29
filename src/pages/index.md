@@ -91,6 +91,13 @@ sections:
     title: The Title of The Call to Action Block
     section_id: cta
     subtitle: This is an optional description for the call to action block.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
 template: advanced
 ---
