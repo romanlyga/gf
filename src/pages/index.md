@@ -52,6 +52,7 @@ sections:
         label: Get Started
         url: /docs/getting-started/installation
         style: primary
+    image: /images/logo.svg
   - type: section_grid
     template: section_grid
     title: Sample Layouts
