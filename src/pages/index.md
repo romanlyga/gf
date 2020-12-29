@@ -8,12 +8,7 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: /docs
-        style: primary
+    actions: []
     image: /images/12.jpg
   - type: section_grid
     template: section_grid
