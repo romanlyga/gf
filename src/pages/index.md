@@ -14,6 +14,7 @@ sections:
         label: Get Started
         url: /docs
         style: primary
+    image: /images/12.jpg
   - type: section_grid
     template: section_grid
     section_id: features
