@@ -91,11 +91,6 @@ sections:
     title: The Title of The Call to Action Block
     section_id: cta
     subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
+    actions: []
 template: advanced
 ---
